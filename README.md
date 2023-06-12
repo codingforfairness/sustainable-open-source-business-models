@@ -20,3 +20,4 @@ without begging and bureaucratic requests?
 - 2021-12-22: [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source) ([HN discussion](https://news.ycombinator.com/item?id=30706650))
 - 2020-01-30: [How to Build Sustainable Open Source Software Projects](https://aaronstannard.com/sustainable-open-source-software/)
 - 2016-09: [UNICEF: Open Source Business Model](https://www.unicef.org/innovation/media/206/file/Open%20Source%20Business%20Model.pdf) (PDF)
+- 2010-03-31: [Open-Core: The Emperor’s New Clothes](https://blogs.gartner.com/brian_prentice/2010/03/31/open-core-the-emperors-new-clothes/)
